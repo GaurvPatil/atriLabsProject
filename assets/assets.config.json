@@ -1,0 +1,74 @@
+{
+  "icon1.svg": {
+    "mime": "image/svg+xml"
+  },
+  "icon2.svg": {
+    "mime": "image/svg+xml"
+  },
+  "menu.png": {
+    "mime": "image/png"
+  },
+  "pic1.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "trusted1.png": {
+    "mime": "image/png"
+  },
+  "trusted2.png": {
+    "mime": "image/png"
+  },
+  "trusted3.png": {
+    "mime": "image/png"
+  },
+  "trusted4.png": {
+    "mime": "image/png"
+  },
+  "services1.svg": {
+    "mime": "image/svg+xml"
+  },
+  "sevices2.svg": {
+    "mime": "image/svg+xml"
+  },
+  "services3.svg": {
+    "mime": "image/svg+xml"
+  },
+  "unplash1.jpg": {
+    "mime": "image/jpeg"
+  },
+  "unplash2.jpg": {
+    "mime": "image/jpeg"
+  },
+  "unplsah3.jpg": {
+    "mime": "image/jpeg"
+  },
+  "design1.png": {
+    "mime": "image/png"
+  },
+  "design2.png": {
+    "mime": "image/png"
+  },
+  "designH-1.png": {
+    "mime": "image/png"
+  },
+  "designH-2.png": {
+    "mime": "image/png"
+  },
+  "WE1.svg": {
+    "mime": "image/svg+xml"
+  },
+  "WE2.svg": {
+    "mime": "image/svg+xml"
+  },
+  "WE3.svg": {
+    "mime": "image/svg+xml"
+  },
+  "testimonialImg.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "footerWhitelogo.svg": {
+    "mime": "image/svg+xml"
+  },
+  "svgArrow.svg": {
+    "mime": "image/svg+xml"
+  }
+}
